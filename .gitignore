@@ -1,0 +1,13 @@
+# Ignore logs files
+*.log
+
+# Ignore local properties
+local.properties
+
+# Ignore bin and config directories
+bin/
+config/
+
+# Ignore
+**/*.class
+*.classpath

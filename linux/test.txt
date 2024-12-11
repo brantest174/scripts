@@ -1,0 +1,15 @@
+Nombre|Sueldo|Ciudad
+Brenzon|13mil|Juarez
+De Luna|13mil|Juarez
+Almanza|13mil|Juarez
+Marlon|15mil|Guadalupe
+Barcenas|16mil|Guadalupe
+Amaya|15mil|Escobedo
+Alejandro|15mil|Escobedo
+Lorena|13mil|Juarez
+Diaz|10mil|Juárez
+Gabriel|15mil|Guadalupe
+Lorena|13mil|Juarez
+Diaz|10mil|Juárez
+Gabriel|15mil|Guadalupe
+Karen|13mil|Apodaca
